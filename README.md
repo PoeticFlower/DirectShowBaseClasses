@@ -14,8 +14,7 @@ The repository is free, any organization or individual can use it as a
 sub-repository in your own repository, you only need to retain this README.md
 file in your own code.
 
-Supported by [PoeticFlower Studio]
-(http://www.poeticflower.cn/ "Website of PoeticFlower Studio")
+Supported by [PoeticFlower Studio](http://www.poeticflower.cn/ "Website of PoeticFlower Studio")
 
 ### 正體中文說明
 
